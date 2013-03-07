@@ -1,0 +1,8 @@
+
+*.phar
+
+vendor/.DS_Store
+
+web/cache/.DS_Store
+
+.DS_Store
